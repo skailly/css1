@@ -1,0 +1,30 @@
+*{
+    font-weight: normal;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+}
+
+p{
+    color: yellow;
+}
+
+#id-merah{
+    color: red;
+}
+
+.warna{
+    font-size: 20px;
+}
+
+h2[value="4"]{
+    color: blue;
+}
+
+h2{
+    color: purple;
+}
